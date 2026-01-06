@@ -101,7 +101,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Bug Reports:** [GitHub Issues](../../issues)
 - **Feature Requests:** [GitHub Issues](../../issues)
-- **Discord:** [Your Discord Server](https://discord.gg/yourserver)
 
 ## 📊 Statistics
 
@@ -110,5 +109,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/SharePos)
 
 ---
+
 
 Made with ❤️ by [SHTUKA](https://github.com/yourusername)
